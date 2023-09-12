@@ -1,4 +1,4 @@
-## Here I put Random thoughts
+### Here I put Random thoughts
 
 Best **free** resources to raise smart, well-rounded kids.
 
