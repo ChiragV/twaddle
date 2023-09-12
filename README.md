@@ -1,7 +1,7 @@
 
 ### Ideas
 ##### (Amazon) Group buying : The basic idea of group buying is that buyers come together to approach a vendor about buying a particular product in bulk ( at discounted price ).
-#### Why OTT platforms don't provide option to watch movie with family where controversial scene can be removed.
+#### Why OTT platforms don't provide option to "watch movie with family" where controversial/uncomfortable scenes can be removed.
 #### Alert me if my favorite show/movie ( i.e. added to "My List" ) is leaving Netflix in near future so we better watch it early.
 
 ## Finance
