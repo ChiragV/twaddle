@@ -1,8 +1,13 @@
 
 ## Ideas
 #### Group buying : The basic idea of group buying is that buyers come together to approach a vendor about buying a particular product in bulk ( at discounted price ).
+#### Why OTT platforms don't provide option to watch movie with family where controversial scene can be removed.
+#### Alert me if my favorite show/movie ( i.e. added to "My List" ) is leaving Netflix in near future so we better watch it early.
+
+## Finance
+#### Why US finance companies(like fidelity ) don't show XIRR (Extended Internal Rate of Return ) returns of my investment. This is ( best and only ) method used to calculate (actual) returns on investments where there are multiple transactions happening at different times
+
 
 ## Math 
-#### In school I never understood what the "Vector" means ? I wish someone had said it is nothing but list of values. "Scalar" is another such word.
-
+#### In school I never understood what the "Vector" or "Scalar" means.
 
