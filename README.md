@@ -9,7 +9,7 @@
 
 
 ## Math 
-##### In school I never understood what the "Vector" or "Scalar" means.
+##### In school, I never understood what the "Vector" or "Scalar" means.
 
 ## Machine Learning
 ##### We (human being) work on remember,formulate,predict framework (from Grokking Machine Learning by Luis G. Serrano). ML work on predict,compare and learn framework (Grokking Deep Learning by Andrew W. Trask).
