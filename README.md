@@ -13,4 +13,5 @@
 
 ## Machine Learning
 ##### We (human being) work on remember,formulate,predict framework (from Grokking Machine Learning by Luis G. Serrano). ML work on predict,compare and learn framework (Grokking Deep Learning by Andrew W. Trask).
+##### To regress is to return to a former state or condition. Linear Regression roughly means fitting a line through a set of points and then using that line to make predictions.
 
